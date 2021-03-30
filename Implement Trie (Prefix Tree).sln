@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement Trie (Prefix Tree)", "Implement Trie (Prefix Tree)\Implement Trie (Prefix Tree).csproj", "{945358C2-C920-4350-8AE3-A99704DB9563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945358C2-C920-4350-8AE3-A99704DB9563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945358C2-C920-4350-8AE3-A99704DB9563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945358C2-C920-4350-8AE3-A99704DB9563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945358C2-C920-4350-8AE3-A99704DB9563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545AE329-A6FA-499E-BC48-320347F29EF4}
+	EndGlobalSection
+EndGlobal
